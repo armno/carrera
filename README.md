@@ -2,6 +2,8 @@
 
 A simple blog running on Sinatra. I make this just for learning and fun.
 
+I'm learning and stumbling around Ruby and Rspec. Hope it'll be fun!
+
 ## Spec
 
 - it should display a list of posts

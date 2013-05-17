@@ -8,5 +8,6 @@ describe Blog do
 		it "should display a post"
 		it "should add new post"
 		it "should display error page if the post is not found"
+		it "should save new comment"
 	end
 end
